@@ -30,7 +30,10 @@ const roasts = [
     "You’re like a candle, but with less light.",
     "You’re like a carrot, but with less color.",
     "You’re like a penny, but with less value.",
-    "You’re like a clock, but with less time."
+    "You’re like a clock, but with less time.",
+    "You're like a breath of fresh air ... in Chernobyl.",
+    "I bet your parents changed the subject when they were asked about you.",
+    "I always feel smarter after talking to you ... because of the comparison."
 ];
 
 module.exports = {
